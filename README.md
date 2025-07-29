@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Doctor Appointment - Full Stack Appointment Website
 
 ## For purchases or inquiries, please contact us here.
@@ -150,3 +151,7 @@ Thank you for considering this project. If you have any questions, please do not
 
 ## Contact Me
 Quber: [https://quber.com.au/](https://quber.com.au/)
+=======
+# voicemitra
+VoiceMitra – Because every voice matters.
+>>>>>>> 2720ab916853e7af90b8e44d412415c6f0fb7c78
